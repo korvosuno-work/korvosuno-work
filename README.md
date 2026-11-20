@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there :point_right: Korvo Suno 的 Github 主页
 
-<!--
-**korvosuno-work/korvosuno-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标 -->
 
-Here are some ideas to get you started:
+![badge-macOS](https://img.shields.io/badge/macOS-27-000000?logo=apple)
+![badge-openSUSE-Tumbleweed](https://img.shields.io/badge/opensuse-tumbleweed-0F3D36?logo=opensuse)
+![badge-archlinux](https://img.shields.io/badge/arch-zen%20kernel-0088CC?logo=archlinux)
+</br>
+![badge-nodejs](https://img.shields.io/badge/node.js-latest-000000?logo=nodedotjs)
+![badge-react](https://img.shields.io/badge/react-19-000000?logo=react)
+![badge-rust](https://img.shields.io/badge/rust-latest-000000?logo=rust)
+![badge-python](https://img.shields.io/badge/node.js-latest-000000?logo=python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+仍在学习中的全栈工程师，欢迎技术交流，多多指教。
