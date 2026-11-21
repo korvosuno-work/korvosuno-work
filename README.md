@@ -9,6 +9,6 @@
 ![badge-nodejs](https://img.shields.io/badge/node.js-latest-000000?logo=nodedotjs)
 ![badge-react](https://img.shields.io/badge/react-19-000000?logo=react)
 ![badge-rust](https://img.shields.io/badge/rust-latest-000000?logo=rust)
-![badge-python](https://img.shields.io/badge/node.js-latest-000000?logo=python)
+![badge-python](https://img.shields.io/badge/python-latest-000000?logo=python)
 
 仍在学习中的全栈工程师，欢迎技术交流，多多指教。
